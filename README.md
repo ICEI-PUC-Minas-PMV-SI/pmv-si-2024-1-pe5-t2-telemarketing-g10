@@ -1,4 +1,4 @@
-# Título do Projeto
+# Telemarketing G10
 
 `CURSO: Sistemas de Informação`
 
@@ -10,14 +10,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Douglas Evangelista dos Santos
+* Lucas Marcio Nascimento Costa Lima
+* Luiz Flávio Ferreira
+* Marcos Antonio Ferreira Filho
+* Sarah Moura Miranda
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alexandre Texeira
 
 
